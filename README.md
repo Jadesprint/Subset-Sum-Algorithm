@@ -4,7 +4,7 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About 
+## About the project
 <!--Wirte one paragraph of project description -->  
 This project is a brute force approach solution and graphication of time complexity of the Subset sum problem
 
